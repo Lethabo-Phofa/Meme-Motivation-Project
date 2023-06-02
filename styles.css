@@ -1,0 +1,33 @@
+html {
+    background-color: black;
+}
+
+img {
+    border: 5px solid gold;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+   
+    
+}
+
+h1 {
+    color: gold;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    font-size:xx-large;
+}
+
+p {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.words{
+    text-align: center;
+    height: 50%;
+}
+
+.joke{
+    width: 100%;
+}
